@@ -1,0 +1,8 @@
+It is a type of illusionary filesystem. It does not exist on a disk. Can U name it ? Flag Format :- secarmy{/flag}
+
+
+The /proc filesystem contains a illusionary filesystem. It does not exist on a disk. Instead, the kernel creates it in memory. It is used to provide information about the system (originally about processes, hence the name). Some of the more important files and directories are explained below.
+
+
+
+secarmy{/proc}

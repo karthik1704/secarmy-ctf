@@ -1,0 +1,23 @@
+ 116
+ 165
+ 155
+ 63
+ 145
+ 162
+ 137
+ 163
+ 171
+ 163
+ 67
+ 63
+ 155
+ 175 
+
+Base 8 
+(175)8 = (7D)16
+
+https://coolconversion.com/math/binary-octal-hexa-decimal/Convert_decimal_number_116_in_hexadecimal_
+
+4E 75 6D 33 65 72 5F 73 79 73 37 33 6D 7D
+
+Num3er_sys73m}
